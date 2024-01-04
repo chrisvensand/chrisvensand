@@ -6,7 +6,6 @@ I'm Christopher Vensand, a passionate Software Engineer with a strong background
 - 🌱 I’m deeply engaged in developing with Python, AWS, Terraform, Docker, and Kubernetes.
 - 💬 Ask me about automation in cloud environments, game development, and how to enhance infrastructure efficiency.
 - 📫 How to reach me: Feel free to drop me an email at chrisvensand@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/chrisvensand).
-- 😄 Pronouns: He/Him
 
 ### Skills
 - **Languages**: Python (Expert), Java, C++, Go, SQL, Bash, JavaScript
